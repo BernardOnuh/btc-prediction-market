@@ -8,8 +8,6 @@ dist/
 frontend/.next/
 
 # Environment files - NEVER commit these
-.env
-.env.local
 .env.*.local
 
 # Clarinet
@@ -41,3 +39,4 @@ scripts/
 
 # Tests directory
 tests/
+config.bat
